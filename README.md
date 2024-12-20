@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm boluocat! 😺
 
-<!--
-**boluocat/boluocat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer, squirrel enthusiast, and part-time comedian. Here's a little bit about me:
 
-Here are some ideas to get you started:
+@_@ Empty, Let me finish it first~
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🐱 About Me
+- 🌱 I’m currently learning how to teach my squirrel to code (spoiler: it's not going well).
+- 💬 Ask me about open source, software development, or the best squirrel memes.
+- 📫 How to reach me: Mystery
+- ⚡ Fun fact: I once debugged a piece of code for 24 hours straight and then realized the problem was a missing semicolon. 😅 
+
+
+## 🎨 Fun Section
+![Random Joke](https://readme-jokes.vercel.app/api)
+
+
+Thanks for stopping by! Remember, code like a squirrel: curious, playful, and ready to pounce on bugs! 🐾
