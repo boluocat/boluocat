@@ -1,5 +1,7 @@
 # Hello, I'm boluocat! 😺
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72EB4&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+passionate+developer%2C+squirrel+enthusiast%2C+and+part-time+comedian.)](https://git.io/typing-svg)
+
 Welcome to my GitHub profile! I'm a passionate developer, squirrel enthusiast, and part-time comedian. Here's a little bit about me:
 
 @_@ Empty, Let me finish it first~
