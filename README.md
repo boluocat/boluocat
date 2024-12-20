@@ -1,6 +1,9 @@
 # Hello, I'm boluocat! 😺
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72EB4&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+passionate+developer%2C+squirrel+enthusiast%2C+and+part-time+comedian.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=F71A97&width=435&lines=Hi%2C+I'm+Astra!+I'm+a+passionate+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=F71A97&width=435&lines=squirrel+enthusiast%2C+and+part-time+comedian.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=1796F7&width=435&lines=Here's+a+little+bit+about+me%3A)](https://git.io/typing-svg)
+
 
 Welcome to my GitHub profile! I'm a passionate developer, squirrel enthusiast, and part-time comedian. Here's a little bit about me:
 
